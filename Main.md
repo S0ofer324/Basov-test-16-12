@@ -16,6 +16,8 @@
 1. А это нумированный список
 2. Еще
 
-А это математическая фомула: $\bar(x)=\frac{\sum_{i=1}^n x_i}{n}$
+А это математическая фомула: $\bar{x}=\frac{\sum_{i=1}^n x_i}{n}$
 
 [Это сайт нашего университета](https://mguu.ru)
+
+![image](https://i.pinimg.com/originals/bd/d0/84/bdd084f76b19cbdcafe38b843f9b44af.jpg)
